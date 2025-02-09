@@ -5,6 +5,7 @@ import PostView from '@/views/PostView.vue'
 
 
 const routes: Array<RouteRecordRaw> = [
+
   {
     path: '/',
     name: 'home',
